@@ -4,3 +4,4 @@ def:
     print("master")
     print("dev")
     print("dev3")
+    print("non_commit before checkout")
