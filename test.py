@@ -5,3 +5,7 @@ def:
     print("dev")
     print("dev3")
     print("non_commit before checkout")
+    print("rebase 01")
+    print("rebase 02")
+    print("rebase 03")
+    print("rebase 04")
