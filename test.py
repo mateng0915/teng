@@ -7,3 +7,4 @@ def:
     print("non_commit before checkout")
     print("rebase 01")
     print("rebase 02")
+    print("rebase 03")
