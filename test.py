@@ -1,2 +1,4 @@
 def main:
-    print(test py)
+    print("test")
+    print("2")
+    print("3")
